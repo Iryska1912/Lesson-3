@@ -1,0 +1,68 @@
+[
+  {
+    "marka": "Volvo",
+    "cena": 12000,
+    "rok": 2009,
+    "zdjecie": "https://cas.volvocars.com/image/dynamic/MY25_2417/536/exterior-v1/RA/74000/R98000/R153/FN01/TC06/_/_/TP05/_/_/GR02/T101/TJ02/NP02/TM04/_/_/EV02/JB0A/T21B/LF05/_/VP09/FH01/_/_/_/_/_/default.jpg?market=pl&client=pdps&angle=4&w=1920&bg=descriptive-studio",
+    "cechy_silnika": {
+      "objetosc_silnika": 1.7,
+      "zuzycie_paliwa": 8,
+      "rodzaj_paliwa": "benzyna"
+    }
+  },
+  {
+    "marka": "Opel",
+    "cena": 14000,
+    "rok": 2006,
+    "zdjecie": "https://stellantis3.dam-broadcast.com/medias/domain12808/media108156/2447024-6ogd94j3uy-whr.jpg",
+    "cechy_silnika": {
+      "objetosc_silnika": 1.6,
+      "zuzycie_paliwa": 7,
+      "rodzaj_paliwa": "benzyna/gaz"
+    }
+  },
+  {
+    "marka": "Audi",
+    "cena": 8000,
+    "rok": 2005,
+    "zdjecie": "https://hips.hearstapps.com/hmg-prod/images/2024-audi-rs7-performance-beach-front-2-1669663938.jpg?crop=0.478xw:0.318xh;0.413xw,0.421xh&resize=1200:*",
+    "cechy_silnika": {
+      "objetosc_silnika": 1.5,
+      "zuzycie_paliwa": 9,
+      "rodzaj_paliwa": "gaz"
+    }
+  },
+  {
+    "marka": "Volvo",
+    "cena": 12000,
+    "rok": 2009,
+    "zdjecie": "https://cas.volvocars.com/image/dynamic/MY25_2417/536/exterior-v1/RA/74000/R98000/R153/FN01/TC06/_/_/TP05/_/_/GR02/T101/TJ02/NP02/TM04/_/_/EV02/JB0A/T21B/LF05/_/VP09/FH01/_/_/_/_/_/default.jpg?market=pl&client=pdps&angle=4&w=1920&bg=descriptive-studio",
+    "cechy_silnika": {
+      "objetosc_silnika": 1.7,
+      "zuzycie_paliwa": 8,
+      "rodzaj_paliwa": "benzyna"
+    }
+  },
+  {
+    "marka": "Opel",
+    "cena": 14000,
+    "rok": 2006,
+    "zdjecie": "https://stellantis3.dam-broadcast.com/medias/domain12808/media108156/2447024-6ogd94j3uy-whr.jpg",
+    "cechy_silnika": {
+      "objetosc_silnika": 1.6,
+      "zuzycie_paliwa": 7,
+      "rodzaj_paliwa": "benzyna/gaz"
+    }
+  },
+  {
+    "marka": "Audi",
+    "cena": 8000,
+    "rok": 2005,
+    "zdjecie": "https://hips.hearstapps.com/hmg-prod/images/2024-audi-rs7-performance-beach-front-2-1669663938.jpg?crop=0.478xw:0.318xh;0.413xw,0.421xh&resize=1200:*",
+    "cechy_silnika": {
+      "objetosc_silnika": 1.5,
+      "zuzycie_paliwa": 9,
+      "rodzaj_paliwa": "gaz"
+    }
+  }
+]
